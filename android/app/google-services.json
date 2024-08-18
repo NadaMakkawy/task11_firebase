@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1043384905386",
+    "project_id": "edu-vista-8e703",
+    "storage_bucket": "edu-vista-8e703.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043384905386:android:bcde579cfafe8339832ad3",
+        "android_client_info": {
+          "package_name": "com.example.task11f"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043384905386-mie7mllk29hvitg74vib6fs8dgspgm4v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsANFoghFh3yJJMI12GzfBduZYrFfP8R8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043384905386-mie7mllk29hvitg74vib6fs8dgspgm4v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1043384905386-855bbdp0pcmorhqarl009kdgtr0ngq76.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.task11Firebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
